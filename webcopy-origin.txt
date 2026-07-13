@@ -1,0 +1,100 @@
+Uri: https://amfdigitalstudio-story.com/fonts/against/style.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\against\style.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/brittany_signature/BrittanySignature.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\brittany_signature\BrittanySignature.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/eyesome/fonts.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\eyesome\fonts.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/heatwood/Heatwood.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\heatwood\Heatwood.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/photograph_signature/fonts.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\photograph_signature\fonts.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/images/btn_app_store.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\btn_app_store.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/btn_play_store.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\btn_play_store.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/no-image.jpg
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\no-image.jpg
+Content Type: image/jpeg
+
+Uri: https://amfdigitalstudio-story.com/plugins/animate.css@4.1.1/animate.min.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\plugins\animate.css@4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/preview/light-blue-flowers
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\preview\light-blue-flowers.html
+Content Type: text/html
+
+Uri: https://amfdigitalstudio-story.com/themes/light-blue-flowers/bg.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\light-blue-flowers\bg.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/light-blue-flowers/bl.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\light-blue-flowers\bl.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/light-blue-flowers/br.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\light-blue-flowers\br.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/light-blue-flowers/tl.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\light-blue-flowers\tl.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/light-blue-flowers/tr.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\light-blue-flowers\tr.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/theme-app.js?v=260626
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\theme-app.js
+Content Type: application/javascript
+
+Uri: https://amfdigitalstudio-story.com/themes/themesv2.js?v=260626
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\themesv2.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Marcellus&display=swap
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/marcellus/v14/wEO_EBrOk8hQLDvIAF8FUQ.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\marcellus\v14\wEO_EBrOk8hQLDvIAF8FUQ.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\beacon.min.js\v4513226cdae34746b4dedf0b4dfa099e1781791509496
+Content Type: text/javascript
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.svg
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.woff
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.woff2
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/style.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\style.css
+Content Type: text/css
+
